@@ -1,2 +1,5 @@
 # hello_world
-My first repo
+
+Hi Humans!
+
+Hubot here, something about tacos on the moon etc..
